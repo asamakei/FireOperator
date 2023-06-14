@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a747540dc3e103947aa524d0dee9f9bf, type: 3}
+  m_Name: BGMDB
+  m_EditorClassIdentifier: 
+  audioDatas:
+  - identifier: Error
+    audioClip: {fileID: 8300000, guid: bc251c28749f2d5458993c770ece46e2, type: 3}
+    volume: 1
+  - identifier: StageGeneral
+    audioClip: {fileID: 8300000, guid: 53781987436099f4ca28c986483982b9, type: 3}
+    volume: 0.5
+  - identifier: StageGeneral2
+    audioClip: {fileID: 8300000, guid: a9791c6dfe9a11248bdc9d264f70e11b, type: 3}
+    volume: 0.5
+  - identifier: Tutorial
+    audioClip: {fileID: 8300000, guid: a9791c6dfe9a11248bdc9d264f70e11b, type: 3}
+    volume: 0.8
+  - identifier: Boss
+    audioClip: {fileID: 8300000, guid: f45c1dc8aeef61040afb99f1fba661ae, type: 3}
+    volume: 0.5
+  - identifier: Shopping
+    audioClip: {fileID: 8300000, guid: 88cccc8cfcc9b9143b25c8619a420b67, type: 3}
+    volume: 0.7
+  - identifier: LastBoss
+    audioClip: {fileID: 8300000, guid: 381702ff3978e6c4088bc76185a186d8, type: 3}
+    volume: 1
+  - identifier: Night
+    audioClip: {fileID: 8300000, guid: dbd755cd1365ec44a8698b225bf7cda4, type: 3}
+    volume: 1
+  - identifier: FinalFight
+    audioClip: {fileID: 8300000, guid: 77759312e10194b4ba369bfbe98d2d52, type: 3}
+    volume: 0.9
+  - identifier: Shibari
+    audioClip: {fileID: 8300000, guid: 3d8ad9b92f0455847bb853c8a14ff945, type: 3}
+    volume: 0.7
+  - identifier: StageGeneral3
+    audioClip: {fileID: 8300000, guid: 90dc1790db5f3404eaf67b1e17173362, type: 3}
+    volume: 0.6

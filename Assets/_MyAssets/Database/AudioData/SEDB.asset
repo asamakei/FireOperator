@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a747540dc3e103947aa524d0dee9f9bf, type: 3}
+  m_Name: SEDB
+  m_EditorClassIdentifier: 
+  audioDatas:
+  - identifier: Error
+    audioClip: {fileID: 8300000, guid: 6331be39ca6a7f246ab5d4e15093acc6, type: 3}
+    volume: 0.5
+  - identifier: Select
+    audioClip: {fileID: 8300000, guid: 559ff1e2a7d2f504ea1fe2d7644125a6, type: 3}
+    volume: 0.6
+  - identifier: Fire
+    audioClip: {fileID: 8300000, guid: c71ab99c3f16205449082e383401fc20, type: 3}
+    volume: 0.3
+  - identifier: SystemError
+    audioClip: {fileID: 8300000, guid: b6d4586935f1edc4eb9f08230a61c173, type: 3}
+    volume: 1
+  - identifier: LoadStage
+    audioClip: {fileID: 8300000, guid: 89bb9360f23203849b1f6f2ca604fcbe, type: 3}
+    volume: 0.7
+  - identifier: Jump
+    audioClip: {fileID: 8300000, guid: 6ca7a69add9ffd24d9e45cff4bd6f77c, type: 3}
+    volume: 0.4
+  - identifier: Clear
+    audioClip: {fileID: 8300000, guid: 2d94f3510a259c1478a46dc3b214ad82, type: 3}
+    volume: 0.7
+  - identifier: TitleButton
+    audioClip: {fileID: 8300000, guid: 559ff1e2a7d2f504ea1fe2d7644125a6, type: 3}
+    volume: 0.5
+  - identifier: Coin
+    audioClip: {fileID: 8300000, guid: 2900e379f63055846b1e3b52db47d30c, type: 3}
+    volume: 0.6
+  - identifier: CoinAppear
+    audioClip: {fileID: 8300000, guid: 3a7470f9cbeb48041bfdd9f311c97c17, type: 3}
+    volume: 1
+  - identifier: Fail
+    audioClip: {fileID: 8300000, guid: ccc3ef73a859fcc4f8b541825ddcc72d, type: 3}
+    volume: 0.6
+  - identifier: BaloonPop
+    audioClip: {fileID: 8300000, guid: bd3700f9d1f832a41b8990d1b196f044, type: 3}
+    volume: 0.8
+  - identifier: MachineStep
+    audioClip: {fileID: 8300000, guid: 679b7095f8954bc4187b20acc7182c36, type: 3}
+    volume: 0.75
+  - identifier: MachineJump
+    audioClip: {fileID: 8300000, guid: 4427f2d768b287649a603d2d78040334, type: 3}
+    volume: 1
+  - identifier: MachineLanding
+    audioClip: {fileID: 8300000, guid: 4b21e4782dcdbe947998e1f7ce0e81a2, type: 3}
+    volume: 1
+  - identifier: MachineCrack
+    audioClip: {fileID: 8300000, guid: b87fed1bdfcd2d646a83ac484b42fada, type: 3}
+    volume: 1
+  - identifier: MachineBreak
+    audioClip: {fileID: 8300000, guid: 1ba7de89a5339e84886ed68cde84b6b4, type: 3}
+    volume: 2
+  - identifier: MachineBar
+    audioClip: {fileID: 8300000, guid: d3e338f93312e51448c033717e28a7be, type: 3}
+    volume: 0.5
+  - identifier: MachineArc
+    audioClip: {fileID: 8300000, guid: d59bf2750d0ed9a4fb25588c482c6473, type: 3}
+    volume: 1
+  - identifier: MachineBoost
+    audioClip: {fileID: 8300000, guid: 48447dbaea692044a83ae52c9aa10ca4, type: 3}
+    volume: 1
+  - identifier: Buy
+    audioClip: {fileID: 8300000, guid: b3681de447d44e24095aaf823e1c493a, type: 3}
+    volume: 1
+  - identifier: Melt
+    audioClip: {fileID: 8300000, guid: db5699f3a1a149443934cd7424403924, type: 3}
+    volume: 0.1
+  - identifier: Boil
+    audioClip: {fileID: 8300000, guid: a309748a94559e24883b90c3d28c4fa2, type: 3}
+    volume: 0.5
+  - identifier: Dive
+    audioClip: {fileID: 8300000, guid: 245b7c0075ed4ab48912dd6c32d3795b, type: 3}
+    volume: 0.6
+  - identifier: Bake
+    audioClip: {fileID: 8300000, guid: a2da6a38fefe17945a15b8661099bc00, type: 3}
+    volume: 0.8
+  - identifier: Noise
+    audioClip: {fileID: 8300000, guid: 87c53ea34087842479673f9ea0b4864e, type: 3}
+    volume: 0.5
+  - identifier: ClearT
+    audioClip: {fileID: 8300000, guid: c50559d1287750a44944fa0cb78aea31, type: 3}
+    volume: 0.6
+  - identifier: ADead
+    audioClip: {fileID: 8300000, guid: 1afb29d310c66b649acad1c7ff34c40a, type: 3}
+    volume: 1
+  - identifier: CDead
+    audioClip: {fileID: 8300000, guid: eff6c72e967c57c48a5a692928f6f449, type: 3}
+    volume: 1
+  - identifier: ClearF
+    audioClip: {fileID: 8300000, guid: 843f752a3155da249a399b71b333ffa3, type: 3}
+    volume: 0.7
+  - identifier: Kick
+    audioClip: {fileID: 8300000, guid: 385bb17d16b366b4281c65221d50ca55, type: 3}
+    volume: 0.5
+  - identifier: Life
+    audioClip: {fileID: 8300000, guid: de58731a889c3a742938990867390dff, type: 3}
+    volume: 1
+  - identifier: Naga
+    audioClip: {fileID: 8300000, guid: 1caf6b0062b980c4a9457ce79d6dd8fd, type: 3}
+    volume: 0.7

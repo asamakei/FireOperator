@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1deede77c909e4ab64c389064df930, type: 3}
+  m_Name: Title
+  m_EditorClassIdentifier: 
+  stagevariabledata:
+    stageData:
+      loadingScenes:
+      - m_SceneName: Title
+      defaultPlayerPosition: {x: 0, y: 0, z: 0}
+      level: 1
+      bgmIdentifier: 
+      stageName: "\u898B\u308B\u306A"
+      shouldUseStageName: 0
+      stageButtonNumber: T
+      stagePicture: {fileID: 0}
+      requirement: 2
+      stageClearEventType: 0
+      directLoadData: {fileID: 0}
+      backColor: {r: 0.972549, g: 0.7490196, b: 0.49803922, a: 1}
+      backGroundPicture: {fileID: 0}
+      rendererNumber: 0
+      stageText: "\u898B\u308B\u306A\n"
+      tutorialClip: {fileID: 0}
+      tutorialText: 
+      endClip: {fileID: 0}
+      endText: 
+    isPlayable: 0
+    isShowable: 0
+    shouldTutorial: 0
+    activatingStates: 0
+    notPlayableSprite: {fileID: 21300000, guid: d39b9eee1d65cf341a4786f9dd325d68, type: 3}
+    stageIndex: 30
+    buttonTransform: {fileID: 0}

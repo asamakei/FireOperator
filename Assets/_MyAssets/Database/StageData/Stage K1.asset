@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1deede77c909e4ab64c389064df930, type: 3}
+  m_Name: Stage K1
+  m_EditorClassIdentifier: 
+  stagevariabledata:
+    stageData:
+      loadingScenes:
+      - m_SceneName: Stage K1
+      - m_SceneName: Player_ClearUI
+      defaultPlayerPosition: {x: 0, y: 0, z: 0}
+      level: 4
+      bgmIdentifier: StageGeneral
+      stageName: "\u307B\u3048"
+      shouldUseStageName: 0
+      stageButtonNumber: 7
+      stagePicture: {fileID: 21300000, guid: d53529add100b474c880032642a24c55, type: 3}
+      requirement: 0
+      stageClearEventType: 0
+      directLoadData: {fileID: 0}
+      backColor: {r: 0.039215688, g: 0.2901961, b: 0.3882353, a: 1}
+      backGroundPicture: {fileID: 0}
+      rendererNumber: 0
+      stageText: "\u30B4\u30FC\u30EB\u304C\u843D\u3061\u306A\u3044\u3088\u3046\u306B...."
+      tutorialClip: {fileID: 0}
+      tutorialText: 
+    isPlayable: 0
+    isShowable: 1
+    shouldTutorial: 0
+    notPlayableSprite: {fileID: 21300000, guid: d39b9eee1d65cf341a4786f9dd325d68, type: 3}
+    stageIndex: 6
+    buttonTransform: {fileID: 0}

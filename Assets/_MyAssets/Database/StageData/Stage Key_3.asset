@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1deede77c909e4ab64c389064df930, type: 3}
+  m_Name: Stage Key_3
+  m_EditorClassIdentifier: 
+  stagevariabledata:
+    stageData:
+      loadingScenes:
+      - m_SceneName: Stage m_s3
+      - m_SceneName: Player_ClearUI
+      defaultPlayerPosition: {x: -8, y: 4.8, z: 0}
+      level: 40
+      bgmIdentifier: FinalFight
+      stageName: "\u5730\u73442"
+      shouldUseStageName: 0
+      stageButtonNumber: S2
+      stagePicture: {fileID: 21300000, guid: 5c4634b87bae8014da0ebf82272c36c2, type: 3}
+      requirement: 2
+      stageClearEventType: 0
+      directLoadData: {fileID: 0}
+      backColor: {r: 0.4528302, g: 0.4528302, b: 0.4528302, a: 1}
+      backGroundPicture: {fileID: 21300000, guid: 659b92c547d13844badb7353c76499e5, type: 3}
+      rendererNumber: 1
+      stageText: "\u3082\u3046\u3081\u3061\u3083\u304F\u3061\u3083\n\u30AF\u30EA\u30A2\u51FA\u6765\u305F\u3089\u672C\u5F53\u306B\u3059\u3054\u3044"
+      tutorialClip: {fileID: 0}
+      tutorialText: 
+    isPlayable: 0
+    shouldTutorial: 0
+    notPlayableSprite: {fileID: 21300000, guid: d39b9eee1d65cf341a4786f9dd325d68, type: 3}
+    stageIndex: 26
+    buttonTransform: {fileID: 0}

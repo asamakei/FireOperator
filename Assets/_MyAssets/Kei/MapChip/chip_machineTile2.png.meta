@@ -1,0 +1,1850 @@
+fileFormatVersion: 2
+guid: 427e1b7fd6879f04c8bcf413fc399701
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 163628853420077405
+    second: chip_machineTile2_0
+  - first:
+      213: 3777781112652747117
+    second: chip_machineTile2_1
+  - first:
+      213: 7459139517959141831
+    second: chip_machineTile2_2
+  - first:
+      213: -9061906298344406822
+    second: chip_machineTile2_3
+  - first:
+      213: -5257816946978539274
+    second: chip_machineTile2_4
+  - first:
+      213: -1121145089335797581
+    second: chip_machineTile2_5
+  - first:
+      213: -3518207916501689477
+    second: chip_machineTile2_6
+  - first:
+      213: 734495857004517230
+    second: chip_machineTile2_7
+  - first:
+      213: 4840104553568566778
+    second: chip_machineTile2_8
+  - first:
+      213: 3892635156234737234
+    second: chip_machineTile2_9
+  - first:
+      213: -4740779617349030975
+    second: chip_machineTile2_10
+  - first:
+      213: 6682889231428509006
+    second: chip_machineTile2_11
+  - first:
+      213: 6736392478211139141
+    second: chip_machineTile2_12
+  - first:
+      213: 7702896485221233029
+    second: chip_machineTile2_13
+  - first:
+      213: 6077142927669232322
+    second: chip_machineTile2_14
+  - first:
+      213: -4954772689333861512
+    second: chip_machineTile2_15
+  - first:
+      213: 3372625992619441766
+    second: chip_machineTile2_16
+  - first:
+      213: 997507166473349264
+    second: chip_machineTile2_17
+  - first:
+      213: -4609072924269778520
+    second: chip_machineTile2_18
+  - first:
+      213: -939708322504492750
+    second: chip_machineTile2_19
+  - first:
+      213: 585712562096410640
+    second: chip_machineTile2_20
+  - first:
+      213: 4704779698298258580
+    second: chip_machineTile2_21
+  - first:
+      213: -3787056308879357936
+    second: chip_machineTile2_22
+  - first:
+      213: 5933026721686200516
+    second: chip_machineTile2_23
+  - first:
+      213: -3257507419010950876
+    second: chip_machineTile2_24
+  - first:
+      213: 6165188383144032152
+    second: chip_machineTile2_25
+  - first:
+      213: -1374171357641457317
+    second: chip_machineTile2_26
+  - first:
+      213: 5507997714440562702
+    second: chip_machineTile2_27
+  - first:
+      213: -2038124314655248799
+    second: chip_machineTile2_28
+  - first:
+      213: -4665642074094225606
+    second: chip_machineTile2_29
+  - first:
+      213: -7110744376510431996
+    second: chip_machineTile2_30
+  - first:
+      213: -1767373421316759508
+    second: chip_machineTile2_31
+  - first:
+      213: -810498635669579852
+    second: chip_machineTile2_32
+  - first:
+      213: 7260835988465537447
+    second: chip_machineTile2_33
+  - first:
+      213: 3678317281817524480
+    second: chip_machineTile2_34
+  - first:
+      213: -721037248065087861
+    second: chip_machineTile2_35
+  - first:
+      213: -8340179482594922495
+    second: chip_machineTile2_36
+  - first:
+      213: -2324573354282656913
+    second: chip_machineTile2_37
+  - first:
+      213: -4309976209092948981
+    second: chip_machineTile2_38
+  - first:
+      213: -1106399971112791488
+    second: chip_machineTile2_39
+  - first:
+      213: -3686902790137990899
+    second: chip_machineTile2_40
+  - first:
+      213: -5844507656991926403
+    second: chip_machineTile2_41
+  - first:
+      213: -1814531667323742501
+    second: chip_machineTile2_42
+  - first:
+      213: -883302670570485284
+    second: chip_machineTile2_43
+  - first:
+      213: -4469311960075517135
+    second: chip_machineTile2_44
+  - first:
+      213: 2863254461228749037
+    second: chip_machineTile2_45
+  - first:
+      213: -1991530311123204921
+    second: chip_machineTile2_46
+  - first:
+      213: 6429751951340665592
+    second: chip_machineTile2_47
+  - first:
+      213: -7286316513939086280
+    second: chip_machineTile2_48
+  - first:
+      213: -7581794847798778998
+    second: chip_machineTile2_49
+  - first:
+      213: -2716015904302360548
+    second: chip_machineTile2_50
+  - first:
+      213: -7599603423304781877
+    second: chip_machineTile2_51
+  - first:
+      213: -5920661982923843795
+    second: chip_machineTile2_52
+  - first:
+      213: 2407662847714933598
+    second: chip_machineTile2_53
+  - first:
+      213: 9090288689234334613
+    second: chip_machineTile2_54
+  - first:
+      213: -8634209828026988753
+    second: chip_machineTile2_55
+  - first:
+      213: -7683024545477144538
+    second: chip_machineTile2_56
+  - first:
+      213: -3792686359671935203
+    second: chip_machineTile2_57
+  - first:
+      213: 5635108583666816792
+    second: chip_machineTile2_58
+  - first:
+      213: 3552172678788524625
+    second: chip_machineTile2_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chip_machineTile2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: 0, y: 0}
+        - {x: 20, y: 0}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51bb134393554200800000000000000
+      internalID: 163628853420077405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 0}
+        - {x: 20, y: 0}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d8da08ef5d6430800000000000000
+      internalID: 3777781112652747117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 0}
+        - {x: 20, y: 0}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c978021fdf248760800000000000000
+      internalID: 7459139517959141831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 0}
+        - {x: 20, y: 0}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad08e43db34ad3280800000000000000
+      internalID: -9061906298344406822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8b055085b7807b0800000000000000
+      internalID: -5257816946978539274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b857783b74e070f0800000000000000
+      internalID: -1121145089335797581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b13fa4a80dc2fc0800000000000000
+      internalID: -3518207916501689477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6710c52714713a00800000000000000
+      internalID: 734495857004517230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 0}
+        - {x: 0, y: -20}
+        - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd743f82718b2340800000000000000
+      internalID: 4840104553568566778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: 0}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256919fec0b650630800000000000000
+      internalID: 3892635156234737234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 19.99997, y: 0.000015258789}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbaf754e0e553eb0800000000000000
+      internalID: -4740779617349030975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d549839546ebc50800000000000000
+      internalID: 6682889231428509006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546636b94497c7d50800000000000000
+      internalID: 6736392478211139141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: 0, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5817737aa8f26ea60800000000000000
+      internalID: 7702896485221233029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: 20, y: 0}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2800d6b49565450800000000000000
+      internalID: 6077142927669232322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 0}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873c2759d7c1d3bb0800000000000000
+      internalID: -4954772689333861512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 0, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eb45aa879fdce20800000000000000
+      internalID: 3372625992619441766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 0, y: 20}
+        - {x: 0, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098ec8e9b7bd7dd00800000000000000
+      internalID: 997507166473349264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9670568984900c0800000000000000
+      internalID: -4609072924269778520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23934ac624c75f2f0800000000000000
+      internalID: -939708322504492750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0109d34d87ed02800800000000000000
+      internalID: 585712562096410640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: 0, y: 0}
+        - {x: -20, y: 0}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4948987653cba4140800000000000000
+      internalID: 4704779698298258580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: 0, y: 0}
+        - {x: -20, y: 0}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01808dc0a5ca17bc0800000000000000
+      internalID: -3787056308879357936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: 0, y: 0}
+        - {x: -20, y: -0.000015258789}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0a10d6e58565250800000000000000
+      internalID: 5933026721686200516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42917ace2420bc2d0800000000000000
+      internalID: -3257507419010950876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8973aae7b262f8550800000000000000
+      internalID: 6165188383144032152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: 0, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c34f4e66fdece0800000000000000
+      internalID: -1374171357641457317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08a4e81db6507c40800000000000000
+      internalID: 5507997714440562702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 0, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e23e8fbb027b3e0800000000000000
+      internalID: -2038124314655248799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 0, y: 20}
+        - {x: 0, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a373f74d04f404fb0800000000000000
+      internalID: -4665642074094225606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d3d75f9af815d90800000000000000
+      internalID: -7110744376510431996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20a2fcbc370977e0800000000000000
+      internalID: -1767373421316759508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d9f9f8c780c4f0800000000000000
+      internalID: -810498635669579852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a15cd8acdba3c460800000000000000
+      internalID: 7260835988465537447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f9e944120c0330800000000000000
+      internalID: 3678317281817524480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -19.99997, y: 0}
+        - {x: 0, y: 0}
+        - {x: -0.000030517578, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86514f617c5ef5f0800000000000000
+      internalID: -721037248065087861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_36
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -0.08491516}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100bde0e2fab14c80800000000000000
+      internalID: -8340179482594922495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: 0, y: 0}
+        - {x: -20, y: -0.000015258789}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd4a3b9d47dbfd0800000000000000
+      internalID: -2324573354282656913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: 0, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c41aa1973ef24c0800000000000000
+      internalID: -4309976209092948981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042d156961745a0f0800000000000000
+      internalID: -1106399971112791488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01bd68427d75dcc0800000000000000
+      internalID: -3686902790137990899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 0}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7712f1604324eea0800000000000000
+      internalID: -5844507656991926403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 0, y: 20}
+        - {x: 0, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd69877ff0d71d6e0800000000000000
+      internalID: -1814531667323742501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd90e7ba6e0edb3f0800000000000000
+      internalID: -883302670570485284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1334b45a370d9f1c0800000000000000
+      internalID: -4469311960075517135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0971723c25cb720800000000000000
+      internalID: 2863254461228749037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 0, y: 20}
+        - {x: 0, y: 0}
+        - {x: 20, y: 0.000015258789}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4041ecbb9ac54e0800000000000000
+      internalID: -1991530311123204921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 0, y: 20}
+        - {x: 0, y: 0}
+        - {x: 20, y: 0.000015258789}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faf88d55511b3950800000000000000
+      internalID: 6429751951340665592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: -0.000030517578, y: 20}
+        - {x: 0, y: 0}
+        - {x: 19.99997, y: 0.000015258789}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83429913cbdc1ea90800000000000000
+      internalID: -7286316513939086280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_49
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: -0.000030517578, y: 20}
+        - {x: 0, y: 0}
+        - {x: 20, y: 0.000015258789}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83211981cd08c690800000000000000
+      internalID: -7581794847798778998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -19.999939, y: -0.0000076293945}
+        - {x: 0, y: 0}
+        - {x: 0, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c181fb3dce5ce4ad0800000000000000
+      internalID: -2716015904302360548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 0}
+        - {x: 0, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf631073f8c88690800000000000000
+      internalID: -7599603423304781877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 0}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d271aa8ab4595dda0800000000000000
+      internalID: -5920661982923843795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 0}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b34f88a9cb96120800000000000000
+      internalID: 2407662847714933598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 0}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59350938661372e70800000000000000
+      internalID: 9090288689234334613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 0}
+        - {x: -20, y: 20}
+        - {x: 0, y: 20}
+        - {x: 0, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27c34c48ef1d2880800000000000000
+      internalID: -8634209828026988753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 0}
+        - {x: 20, y: 0}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6205a3ed1e9606590800000000000000
+      internalID: -7683024545477144538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: -20}
+        - {x: -20, y: 20}
+        - {x: 0, y: 20}
+        - {x: 0, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fe843b9dbad5bc0800000000000000
+      internalID: -3792686359671935203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_58
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 0}
+        - {x: -20, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8171738966de33e40800000000000000
+      internalID: 5635108583666816792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip_machineTile2_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -20}
+        - {x: 0, y: 20}
+        - {x: 20, y: 20}
+        - {x: 20, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aa90c2b3adb4130800000000000000
+      internalID: 3552172678788524625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chip_machineTile2_7: 734495857004517230
+      chip_machineTile2_53: 2407662847714933598
+      chip_machineTile2_29: -4665642074094225606
+      chip_machineTile2_45: 2863254461228749037
+      chip_machineTile2_16: 3372625992619441766
+      chip_machineTile2_4: -5257816946978539274
+      chip_machineTile2_57: -3792686359671935203
+      chip_machineTile2_51: -7599603423304781877
+      chip_machineTile2_0: 163628853420077405
+      chip_machineTile2_14: 6077142927669232322
+      chip_machineTile2_15: -4954772689333861512
+      chip_machineTile2_52: -5920661982923843795
+      chip_machineTile2_37: -2324573354282656913
+      chip_machineTile2_26: -1374171357641457317
+      chip_machineTile2_1: 3777781112652747117
+      chip_machineTile2_23: 5933026721686200516
+      chip_machineTile2_28: -2038124314655248799
+      chip_machineTile2_40: -3686902790137990899
+      chip_machineTile2_48: -7286316513939086280
+      chip_machineTile2_39: -1106399971112791488
+      chip_machineTile2_44: -4469311960075517135
+      chip_machineTile2_54: 9090288689234334613
+      chip_machineTile2_49: -7581794847798778998
+      chip_machineTile2_12: 6736392478211139141
+      chip_machineTile2_31: -1767373421316759508
+      chip_machineTile2_38: -4309976209092948981
+      chip_machineTile2_35: -721037248065087861
+      chip_machineTile2_8: 4840104553568566778
+      chip_machineTile2_47: 6429751951340665592
+      chip_machineTile2_2: 7459139517959141831
+      chip_machineTile2_43: -883302670570485284
+      chip_machineTile2_55: -8634209828026988753
+      chip_machineTile2_24: -3257507419010950876
+      chip_machineTile2_58: 5635108583666816792
+      chip_machineTile2_11: 6682889231428509006
+      chip_machineTile2_5: -1121145089335797581
+      chip_machineTile2_9: 3892635156234737234
+      chip_machineTile2_19: -939708322504492750
+      chip_machineTile2_20: 585712562096410640
+      chip_machineTile2_34: 3678317281817524480
+      chip_machineTile2_27: 5507997714440562702
+      chip_machineTile2_30: -7110744376510431996
+      chip_machineTile2_3: -9061906298344406822
+      chip_machineTile2_41: -5844507656991926403
+      chip_machineTile2_21: 4704779698298258580
+      chip_machineTile2_46: -1991530311123204921
+      chip_machineTile2_59: 3552172678788524625
+      chip_machineTile2_50: -2716015904302360548
+      chip_machineTile2_42: -1814531667323742501
+      chip_machineTile2_22: -3787056308879357936
+      chip_machineTile2_56: -7683024545477144538
+      chip_machineTile2_25: 6165188383144032152
+      chip_machineTile2_10: -4740779617349030975
+      chip_machineTile2_36: -8340179482594922495
+      chip_machineTile2_18: -4609072924269778520
+      chip_machineTile2_6: -3518207916501689477
+      chip_machineTile2_32: -810498635669579852
+      chip_machineTile2_13: 7702896485221233029
+      chip_machineTile2_33: 7260835988465537447
+      chip_machineTile2_17: 997507166473349264
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

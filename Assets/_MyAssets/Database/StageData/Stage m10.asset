@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1deede77c909e4ab64c389064df930, type: 3}
+  m_Name: Stage m10
+  m_EditorClassIdentifier: 
+  stagevariabledata:
+    stageData:
+      loadingScenes:
+      - m_SceneName: Stage m10
+      - m_SceneName: Player_ClearUI
+      defaultPlayerPosition: {x: -7.2, y: 4.8, z: 0}
+      level: 19
+      bgmIdentifier: Night
+      stageName: 
+      shouldUseStageName: 0
+      stageButtonNumber: 24
+      stagePicture: {fileID: 21300000, guid: cd61349270f7d3c458d5ce06982f8320, type: 3}
+      requirement: 0
+      stageClearEventType: 2
+      directLoadData: {fileID: 11400000, guid: 53dcadf927712ef42a31c0bb31c4cb87, type: 2}
+      backColor: {r: 0, g: 0, b: 0, a: 1}
+      backGroundPicture: {fileID: 21300000, guid: 3262d0f6251cfe74480c01885f1cb4da, type: 3}
+      rendererNumber: 1
+      stageText: '""
+
+'
+      tutorialClip: {fileID: 0}
+      tutorialText: 
+      endClip: {fileID: 0}
+      endText: 
+    isPlayable: 0
+    isShowable: 1
+    shouldTutorial: 0
+    activatingStates: 7
+    notPlayableSprite: {fileID: 21300000, guid: d39b9eee1d65cf341a4786f9dd325d68, type: 3}
+    stageIndex: 23
+    buttonTransform: {fileID: 0}
